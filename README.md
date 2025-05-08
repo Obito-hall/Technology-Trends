@@ -131,6 +131,6 @@ If you'd like to connect or discuss this project:
 - 📧 Email: [abdouhall58@gmail.com](mailto:abdouhall58@gmail.com)  
 - 💼 LinkedIn:
 
-  [![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/abdelali-hallal/)
+  [![LinkedIn](linkedin_icon_small.png)](https://www.linkedin.com/in/abdelali-hallal/)
 
 
