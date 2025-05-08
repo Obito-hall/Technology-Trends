@@ -62,7 +62,7 @@ This indicates that web development languages (JavaScript, HTML/CSS), as well as
 
 The pie chart above illustrates this distribution of work preferences. The trend is clear – the majority of developers have embraced remote work at least part of the time. This shift toward remote and hybrid work reflects the wider industry trend accelerated by recent years, where flexibility and work-life balance are highly valued. For companies, this means that offering remote work options can be key to attracting and retaining developer talent. Meanwhile, developers have more opportunities than ever to work for companies around the world without relocating, thanks to the acceptance of remote collaboration tools and practices.
 
-![Tools Used](
+![Tools Used](remote_work.png)
 
 
 ---
