@@ -1,8 +1,5 @@
 # 🧠 Technology Trends & Insights: Coding, Databases, and Cloud Utilization
 
-**Author**: Abdel HALL  
-**Date**: March 24, 2025
-
 ---
 
 ## 💼 Business Problem
@@ -13,7 +10,26 @@ In the rapidly evolving tech industry, staying informed about current and emergi
 
 ## 🗂️ Dataset Summary
 
-The analysis is based on the latest Stack Overflow Developer Survey dataset, which includes responses from 65,457 developers across 114 questions/columns. The data was collected through a combination of Stack Overflow’s API and web scraping of related information, ensuring a broad coverage of developer experiences. After collection, data cleaning steps were applied: duplicate entries were identified and removed, missing values were handled (through imputation or removal as appropriate), and various fields were normalized to consistent formats. This prepared a high-quality dataset ready for exploration and analysis. Notably, the dataset reflects global developer preferences on programming languages, databases, cloud platforms, work environment, and more, providing a comprehensive view of technology usage and trends in the software industry.
+The analysis is based on the **2024 Stack Overflow Developer Survey**, which includes responses from **65,457 developers** across **114 questions**. This dataset offers a comprehensive snapshot of global developer preferences and behaviors, covering topics such as:
+
+- 🧑‍💻 Programming languages
+- 🗄️ Databases
+- ☁️ Cloud platforms
+- 🏢 Work environments
+
+Data was collected using a combination of Stack Overflow’s **public API** and **targeted web scraping** to ensure broad and relevant coverage. After acquisition, the dataset underwent rigorous cleaning:
+
+- ✅ Duplicate entries were removed  
+- 🔧 Missing values were handled (via imputation or exclusion)  
+- 🧹 Categorical fields were normalized for consistency
+
+These steps produced a **high-quality, analysis-ready dataset** that supports meaningful exploration of trends in software development across various roles and technologies.
+
+### 📎 Dataset Source
+
+The dataset is released under the **Open Database License (ODbL)** and is publicly available here:  
+🔗 [2024 Stack Overflow Developer Survey](https://stackoverflow.blog/2024/08/06/2024-developer-survey/)
+
 
 ---
 
