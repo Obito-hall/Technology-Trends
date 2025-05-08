@@ -117,3 +117,10 @@ Update programs to reflect real industry demand: hands-on with SQL, Python, Java
 ---
 
 **Overall**, _Technology Trends & Insights_ provides valuable guidance. Developers can steer their learning pathways, businesses can shape their tech adoption roadmaps, and educators can tailor their programs – all informed by real data on what’s popular now and what’s coming next. By taking these recommendations on board, stakeholders will be better prepared to innovate and excel in the fast-moving world of technology.
+
+## 📊 Dashboard
+
+You can explore the interactive dashboard prepared as part of this project. It summarizes the key insights using visualizations and clean layouts.
+
+[![View Dashboard](images/lookerstudio-icon.png)](https://github.com/YourUsername/YourRepo/blob/main/dashbord_survey-data.pdf)
+
