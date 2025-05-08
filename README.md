@@ -122,5 +122,5 @@ Update programs to reflect real industry demand: hands-on with SQL, Python, Java
 
 You can explore the interactive dashboard prepared as part of this project. It summarizes the key insights using visualizations and clean layouts.
 
-[![View Dashboard](looker.png)](https://github.com/YourUsername/YourRepo/blob/main/dashbord_survey-data.pdf)
+[![View Dashboard](looker_icon.png)](https://github.com/YourUsername/YourRepo/blob/main/dashbord_survey-data.pdf)
 
