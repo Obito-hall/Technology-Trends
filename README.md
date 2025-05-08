@@ -124,3 +124,13 @@ You can explore the interactive dashboard prepared as part of this project. It s
 
 [![View Dashboard](looker_icon.png)](dashbord_survey-data.pdf)
 
+## 📬 Contact
+
+If you'd like to connect or discuss this project:
+
+- 📧 Email: [abdouhall58@gmail.com](mailto:abdouhall58@gmail.com)  
+- 💼 LinkedIn:
+
+  [![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/abdelali-hallal/)
+
+
