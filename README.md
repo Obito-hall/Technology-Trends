@@ -37,7 +37,7 @@ The project followed a structured approach to gather and analyze the data:
 
 ## 🛠️ Tools Used
 
-![Tools Used](tools_used.png)
+
 Tools and technologies utilized in this project:
 
 The project made use of a range of tools to accomplish its goals. Microsoft Excel was used for initial data inspection and simple cleaning tasks, especially to get a quick overview of the dataset structure. SQL (Structured Query Language) was employed to run queries on the data – for example, to filter survey responses or join supplementary datasets (like combining survey results with job demand data). The core of the analysis was done in Python, using libraries such as pandas for data manipulation and cleaning, and Matplotlib/Seaborn for creating charts and visualizations. Finally, IBM Cognos Analytics was used to design an interactive dashboard, where charts (such as bar graphs of tool usage, language popularity, and remote work distribution) were assembled into a cohesive interactive report. Each tool played a role: Excel and SQL for data handling, Python for in-depth analysis and visualization, and Cognos for sharing results in an interactive, business-friendly manner.
@@ -52,7 +52,7 @@ The project made use of a range of tools to accomplish its goals. Microsoft Exce
 
 This indicates that web development languages (JavaScript, HTML/CSS), as well as data-related languages (SQL and Python), remain highly prevalent. The chart above shows the top languages developers have worked with. Notably, newer languages like TypeScript also rank high in usage, reflecting the industry’s adoption of modern JavaScript variants. In contrast, traditional languages such as Java and C# have a solid but comparatively smaller share. These usage patterns underscore the continuation of long-term trends: JavaScript’s ubiquity in web development, SQL and Python’s importance in data and backend work, and the growing popularity of TypeScript for large-scale JavaScript projects.
 
-
+![Tools Used](LanguagesUsed.png)
 
 ---
 
@@ -61,6 +61,9 @@ This indicates that web development languages (JavaScript, HTML/CSS), as well as
 **Work Arrangement Distribution:** Hybrid and fully-remote work arrangements have become the norm for developers. According to the survey data, a significant portion of developers work in flexible setups. Approximately 50% of developers are in a hybrid work model (splitting time between office and remote), and around 30–38% work fully remote. This leaves only roughly 20% of respondents working exclusively in-person/on-site, a share that has been gradually shrinking.
 
 The pie chart above illustrates this distribution of work preferences. The trend is clear – the majority of developers have embraced remote work at least part of the time. This shift toward remote and hybrid work reflects the wider industry trend accelerated by recent years, where flexibility and work-life balance are highly valued. For companies, this means that offering remote work options can be key to attracting and retaining developer talent. Meanwhile, developers have more opportunities than ever to work for companies around the world without relocating, thanks to the acceptance of remote collaboration tools and practices.
+
+![Tools Used](
+
 
 ---
 
