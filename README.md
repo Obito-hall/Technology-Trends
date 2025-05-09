@@ -129,8 +129,6 @@ You can explore the interactive dashboard prepared as part of this project. It s
 If you'd like to connect or discuss this project:
 
 - 📧 Email: [abdouhall58@gmail.com](mailto:abdouhall58@gmail.com)  
-- 💼 LinkedIn:
-
-  [![LinkedIn](linkedin_icon_small.png)](https://www.linkedin.com/in/abdelali-hallal/)
+- 💼 LinkedIn:  [![LinkedIn](icons/linkedin_icon_tiny.png)](https://www.linkedin.com/in/abdelali-hallal/)
 
 
