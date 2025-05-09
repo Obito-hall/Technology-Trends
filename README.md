@@ -120,7 +120,7 @@ Update programs to reflect real industry demand: hands-on with SQL, Python, Java
 
 ## 📊 Dashboard
 
-You can explore the interactive dashboard prepared as part of this project. It summarizes the key insights using visualizations and clean layouts.
+You can explore the dashboard prepared as part of this project. It summarizes the key insights using visualizations and clean layouts.
 
 [![View Dashboard](icons/looker_icon.png)](dashbord_survey-data.pdf)
 
