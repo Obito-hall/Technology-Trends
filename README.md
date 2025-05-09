@@ -68,7 +68,7 @@ The project made use of a range of tools to accomplish its goals. Microsoft Exce
 
 This indicates that web development languages (JavaScript, HTML/CSS), as well as data-related languages (SQL and Python), remain highly prevalent. The chart above shows the top languages developers have worked with. Notably, newer languages like TypeScript also rank high in usage, reflecting the industry’s adoption of modern JavaScript variants. In contrast, traditional languages such as Java and C# have a solid but comparatively smaller share. These usage patterns underscore the continuation of long-term trends: JavaScript’s ubiquity in web development, SQL and Python’s importance in data and backend work, and the growing popularity of TypeScript for large-scale JavaScript projects.
 
-![Tools Used](LanguagesUsed.png)
+![Tools Used](visuals/LanguagesUsed.png)
 
 ---
 
@@ -78,7 +78,7 @@ This indicates that web development languages (JavaScript, HTML/CSS), as well as
 
 The bar chart above illustrates this distribution of work preferences. The trend is clear – the majority of developers have embraced remote work at least part of the time. This shift toward remote and hybrid work reflects the wider industry trend accelerated by recent years, where flexibility and work-life balance are highly valued. For companies, this means that offering remote work options can be key to attracting and retaining developer talent. Meanwhile, developers have more opportunities than ever to work for companies around the world without relocating, thanks to the acceptance of remote collaboration tools and practices.
 
-![Tools Used](remote_work.png)
+![Tools Used](visuals/remote_work.png)
 
 
 ---
